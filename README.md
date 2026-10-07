@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @DevDarji2002
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python & SQL
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me (mail):- devdarji527@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Framer Developer · Full-Stack Developer
 
-<!---
-DevDarji2002/DevDarji2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+React · JavaScript · TypeScript · Python · SQL
+
+Exploring Web APIs, device sensors & creative technology
+
+Building interactive web experiences & digital tools
+
+Portfolio: https://framerdevv.framer.website
